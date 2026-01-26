@@ -1,0 +1,7 @@
+path: dataset/fish_combine
+train: images/train
+val: images/val
+test: images/test
+
+nc: 9
+names: ['Red Spot Disease', 'Bacterial Dorsal Ulcer', 'White Spot Disease', 'Osteomyelitis', 'Red Gill Disease', 'Bacterial Aeromonas Disease', 'Healthy Tilapia', 'Streptococcus', 'Tilapia Lake Virus']
