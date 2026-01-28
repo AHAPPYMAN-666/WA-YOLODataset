@@ -1,0 +1,10 @@
+orange
+pear
+bad_orange
+bad_pear
+bad_apple
+apple
+bad_mango
+mango
+banana
+bad_banana
